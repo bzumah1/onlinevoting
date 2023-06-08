@@ -1,7 +1,5 @@
 # Online Voting System
 
-![Online Voting System](voting_system.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
